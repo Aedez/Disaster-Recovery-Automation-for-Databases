@@ -1,7 +1,5 @@
 # Disaster Recovery Automation for Databases
 
-**Project 3** from Michael Nk. Owusu-Afari’s resume: “Disaster Recovery Automation for Databases.”
-
 This repository demonstrates how to automate database backup, cross-region restoration, and periodic failover testing using Bash, psql, AWS CLI, Amazon RDS, AWS Backup, and Amazon S3. It also includes documentation and training materials for recovery procedures.
 
 ## Table of Contents
