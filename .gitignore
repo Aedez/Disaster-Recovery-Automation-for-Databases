@@ -1,0 +1,7 @@
+# Ignore dotenv or any credentials file
+*.env
+*.secret
+# Ignore AWS CLI temp files
+*.tmp
+# Ignore log files
+*.log
