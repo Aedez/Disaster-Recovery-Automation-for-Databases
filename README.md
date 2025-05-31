@@ -65,18 +65,20 @@ This project automates the following key disaster recovery tasks:
 
 ## Directory Structure
 
+```text
 project-3-dr-automation/
 ├── README.md
 ├── LICENSE
 ├── scripts/
-│ ├── backup.sh
-│ ├── restore_cross_region.sh
-│ ├── failover_test.sh
-│ └── helpers.sh
+│   ├── backup.sh
+│   ├── restore_cross_region.sh
+│   ├── failover_test.sh
+│   └── helpers.sh
 ├── docs/
-│ ├── recovery_procedures.md
-│ └── training_materials.md
+│   ├── recovery_procedures.md
+│   └── training_materials.md
 └── .gitignore
+```
 
 - **`scripts/`**: Contains all the Bash automation scripts.  
 - **`docs/`**: Contains markdown documentation and training materials.  
